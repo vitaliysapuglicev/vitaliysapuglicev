@@ -1,16 +1,17 @@
-## Hi there 👋
+<div>
 
-<!--
-**vitaliysapuglicev/vitaliysapuglicev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  
+  <img src="https://media1.tenor.com/m/nlAcoH84u9EAAAAd/le-sserafim-eunchae.gif"/>
+  
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  
+![Typing SVG](https://pngimg.com/uploads/good_morning/good_morning_PNG50.png)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <hr>
+ 
+</div>
